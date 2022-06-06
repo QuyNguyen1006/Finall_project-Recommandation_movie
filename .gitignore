@@ -1,0 +1,10 @@
+.ipynb_checkpoints/hello-checkpoint.py
+.vscode/
+hello.py
+process1.ipynb
+process2.ipynb
+process3.ipynb
+process4.ipynb
+sentiment.ipynb
+recommandation_venv/
+datasets/
